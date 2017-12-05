@@ -12,5 +12,9 @@
   "author": "RED Interactive Agency",
   "license": "ISC",
   "dependencies": {
+    "ad-load": "file:~/Internal/ad-load",
+    "ad-utils": "file:~/Internal/ad-utils",
+    "ad-dates": "file:~/Internal/ad-dates",
+    "ad-legacy": "file:~/Internal/ad-legacy"
   }
 }
