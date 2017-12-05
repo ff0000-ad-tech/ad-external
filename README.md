@@ -1,6 +1,6 @@
 ##### RED Interactive Agency - Ad Technology
 
-Ad Control (core/js/control)
+Ad External (core/js/control)
 ===============
 
 
