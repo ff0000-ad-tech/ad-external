@@ -1,9 +1,3 @@
-import Device from './lib/Device.js'
-import AdManager from './lib/AdManager.js'
-import Velvet from './lib/Velvet.js'
-
-export {
-	Device,
-	AdManager,
-	Velvet,
-}
+export { default as Device } from './lib/Device.js'
+export { default as AdManager } from './lib/AdManager.js'
+export { default as Velvet } from './lib/Velvet.js'
